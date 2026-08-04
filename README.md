@@ -174,12 +174,4 @@ The primary objective of this project is to develop a predictive model that help
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-If you have suggestions for improvements, feel free to fork the repository and submit a pull request.
-
----
-
 
